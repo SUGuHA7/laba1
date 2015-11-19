@@ -1,0 +1,16 @@
+﻿Сборка начата 09.10.2015 10:53:53.
+     1>Проект "D:\универ\2 курс\ООП\Лабораторная работа1\Лабораторная работа1\Лабораторная работа1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\visual studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Лабораторная работа1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Лабораторная работа1.cpp"
+         Лабораторная работа1.cpp
+     1>d:\универ\2 курс\ооп\лабораторная работа1\лабораторная работа1\лабораторная работа1.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+       Link:
+         D:\visual studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\универ\2 курс\ООП\Лабораторная работа1\Debug\Лабораторная работа1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\универ\2 курс\ООП\Лабораторная работа1\Debug\Лабораторная работа1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\универ\2 курс\ООП\Лабораторная работа1\Debug\Лабораторная работа1.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\vector.obj
+         "Debug\Лабораторная работа1.obj"
+         Лабораторная работа1.vcxproj -> D:\универ\2 курс\ООП\Лабораторная работа1\Debug\Лабораторная работа1.exe
+     1>Сборка проекта "D:\универ\2 курс\ООП\Лабораторная работа1\Лабораторная работа1\Лабораторная работа1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.70
